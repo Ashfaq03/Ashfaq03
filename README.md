@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Ashfaquddin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaq03" alt="ashfaq03" /></a> </p>
-
 - 🌱 I’m currently learning **Back-end development**
 
 - 📫 How to reach me **syedashfaquddin2003@gmail.com**
@@ -10,7 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syedashfaquddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedashfaquddin" height="30" width="40" /></a>
-<a href="https://fb.com/syed ashfaquddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed ashfaquddin" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61564968804965&sk=about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61564968804965&sk=about" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hacksniper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hacksniper" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/syedashfaquddin2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/syedashfaquddin2003/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@syedashfaquddin2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@syedashfaquddin2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
